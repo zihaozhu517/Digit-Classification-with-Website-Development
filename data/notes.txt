@@ -1,0 +1,4 @@
+This folder contains random generated mnist digit files.
+Each file is a matrix represents the digit from the MNIST dataset, 
+visualized as a 28x28 grayscale image. 
+Non-zero values indicate varying pixel intensities, forming the shape of the digit.
